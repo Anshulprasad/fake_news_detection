@@ -1,0 +1,15 @@
+*.zip
+# *.pkl
+# *.csv
+# logs
+# model
+# fake-news-detection-frontend
+# results
+# __pycache__
+# *.ipynb
+# app.py
+results/checkpoint-15/optimizer.pt
+results/checkpoint-15/model.safetensors
+saved/model_bert.pkl
+saved/tokenizer_bert.pkl
+saved/news_articles.csv
